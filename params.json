@@ -1,6 +1,6 @@
 {
   "name": "Star-wars-the-force-breaker",
   "tagline": "Before Infiltrating to the Dark Side the Great Wall be destroyed must",
-  "body": "### Welcome to Star Wars: The Force Breaker\r\nThe Rebellions force gathered up and the attack on the galactic empire has begun. First mission to destroy the great wall.\r\n\r\n### Unity 3D Game Engine\r\nThe Game is developed with Unity and MonoDevelop with C# as scripting Language. Unity 5.4 now features exporting to ALL platforms.\r\n\r\n### Game Sounds\r\n* http://www.littlerobotsoundfactory.com/\r\n* http://www.bfxr.net/\r\n* https://soundcloud.com/paulo-bohrer-ii/star-wars-chiptune-medley",
+  "body": "### Welcome to Star Wars: The Force Breaker\r\nThe Rebellions force gathered up and the attack on the galactic empire has begun. First mission to destroy the great wall.\r\n\r\n### Online Play\r\n* The Game can take a while for loading despite the small size and encounter some lag at the beginning.\r\n* Click the mouse to launch the ball projectile\r\n* Move the mouse right and left to control the light paddle\r\n\r\n### Unity 3D Game Engine\r\nThe Game is developed with Unity and MonoDevelop with C# as scripting Language. Unity 5.4 now features exporting to ALL platforms.\r\n\r\n### Game Sounds\r\n* http://www.littlerobotsoundfactory.com/\r\n* http://www.bfxr.net/\r\n* https://soundcloud.com/paulo-bohrer-ii/star-wars-chiptune-medley",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
